@@ -9,7 +9,7 @@ This project is an example of user authentication using Express.js. It demonstra
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/express-user-auth.git
+    git clone https://github.com/ZakariaElkhadir/express-user-auth.git
     ```
 2. Navigate to the project directory:
     ```sh
